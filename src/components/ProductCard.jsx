@@ -1,21 +1,33 @@
 import { Card } from 'primereact/card';
+
 const ProductCard = ({ image, category, name, price = 0, priceDiscount = null }) => {
+    
+    const discountPercentage = priceDiscount !== null 
+        ? Math.round(((price - priceDiscount) / price) * 100)
+        : 0;
 
     const header = (
-        <img
-            alt={name}
-            src={image}
-            style={{
-                width: '292px',
-                height: '321px',
-                objectFit: 'cover',
-            }}
-        />
+        <div className="relative">
+            <img
+                alt={name}
+                src={image}
+                style={{
+                    width: '292px',
+                    height: '321px',
+                    objectFit: 'cover',
+                }}
+            />
+            
+            {priceDiscount !== null && (
+                <h4 className="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 border-round-md m-2">
+                    {discountPercentage}% off
+                </h4>
+            )}
+        </div>
     );
 
     const footer = (
         <div className="flex flex-column gap-2">
-            <h4 className="absolute top-0 border-solid border-round-md">50% off</h4>
             <span className="text-base font-light">{category}</span>
             <span className="text-xl font-bold">{name}</span>
             <div className="flex align-items-center gap-3">
