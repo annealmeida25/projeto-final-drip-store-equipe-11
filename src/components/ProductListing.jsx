@@ -18,6 +18,7 @@ const ProductListing = () => {
             priceDiscount={product.priceDiscount}
           />
         ))}
+
       </div>
     </>
   );
