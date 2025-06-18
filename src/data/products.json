@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "image": "https://picsum.photos/id/1005/292/321",
+    "category": "Camisetas",
+    "name": "Camiseta Nike Masculina Dry Academy",
+    "price": 129.90,
+    "priceDiscount": 99.90
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/id/1010/292/321",
+    "category": "Camisetas",
+    "name": "Camiseta Adidas Masculina Original",
+    "price": 119.90,
+    "priceDiscount": 89.90
+  },
+  {
+    "id": 3,
+    "image": "https://picsum.photos/id/1025/292/321",
+    "category": "Camisetas",
+    "name": "Camiseta Puma Masculina Basic",
+    "price": 79.90,
+    "priceDiscount": 59.90
+  },
+  {
+    "id": 4,
+    "image": "https://picsum.photos/id/1035/292/321",
+    "category": "Camisetas",
+    "name": "Camiseta Oakley Masculina Graphic",
+    "price": 149.90
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/id/1040/292/321",
+    "category": "Camisetas",
+    "name": "Camiseta Under Armour Masculina Tech",
+    "price": 139.90,
+    "priceDiscount": 109.90
+  },
+  {
+    "id": 6,
+    "image": "https://picsum.photos/id/1048/292/321",
+    "category": "Camisetas",
+    "name": "Camiseta New Balance Masculina Essentials",
+    "price": 89.90
+  },
+  {
+    "id": 7,
+    "image": "https://picsum.photos/id/1051/292/321",
+    "category": "Camisetas",
+    "name": "Camiseta Olympikus Masculina Dry",
+    "price": 69.90,
+    "priceDiscount": 49.90
+  },
+  {
+    "id": 8,
+    "image": "https://picsum.photos/id/1059/292/321",
+    "category": "Camisetas",
+    "name": "Camiseta Mizuno Masculina Dry",
+    "price": 109.90
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Calças",
+    "name": "Calça Jeans Levi's 501 Original",
+    "price": 399.90,
+    "priceDiscount": 349.90
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Calças",
+    "name": "Calça Moletom Adidas Tiro 23",
+    "price": 229.90
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Calças",
+    "name": "Calça Jeans Wrangler Reta",
+    "price": 179.90,
+    "priceDiscount": 149.90
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Calças",
+    "name": "Calça Tactel Nike Sportswear Club",
+    "price": 159.90
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Calças",
+    "name": "Calça Jeans Colcci Skinny",
+    "price": 279.90,
+    "priceDiscount": 229.90
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Calças",
+    "name": "Calça Moletom Puma Iconic T7",
+    "price": 199.90
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Calças",
+    "name": "Calça Jeans Diesel Jogg",
+    "price": 599.90,
+    "priceDiscount": 499.90
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Calças",
+    "name": "Calça Tactel Olympikus Pro",
+    "price": 129.90
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Bonés",
+    "name": "Boné Nike Heritage Futura Unissex",
+    "price": 129.90,
+    "priceDiscount": 99.90
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Bonés",
+    "name": "Boné Adidas Originals Unissex",
+    "price": 119.90
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1534215754734-18e55d13e346?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Bonés",
+    "name": "Boné New Era 9Forty Ajustável",
+    "price": 149.90,
+    "priceDiscount": 129.90
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Bonés",
+    "name": "Boné Puma Ferrari Ajustável",
+    "price": 139.90
+  },
+  {
+    "id": 21,
+    "image": "https://images.unsplash.com/photo-1591946614720-90a587da4a36?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Bonés",
+    "name": "Boné Oakley Standard Issue",
+    "price": 179.90,
+    "priceDiscount": 149.90
+  },
+  {
+    "id": 22,
+    "image": "https://images.unsplash.com/photo-1573767291321-c0af2eaf5266?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Bonés",
+    "name": "Boné Under Armour Blitzing",
+    "price": 159.90
+  },
+  {
+    "id": 23,
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Bonés",
+    "name": "Boné Mizuno Classic",
+    "price": 99.90,
+    "priceDiscount": 79.90
+  },
+  {
+    "id": 24,
+    "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Bonés",
+    "name": "Boné Olympikus Sport",
+    "price": 69.90
+  },
+  {
+    "id": 25,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Headphones",
+    "name": "Fone JBL Tune 510BT",
+    "price": 299.90,
+    "priceDiscount": 249.90
+  },
+  {
+    "id": 26,
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Headphones",
+    "name": "Fone Sony WH-CH510",
+    "price": 279.90
+  },
+  {
+    "id": 27,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Headphones",
+    "name": "Fone Philips TAH4205",
+    "price": 199.90,
+    "priceDiscount": 169.90
+  },
+  {
+    "id": 28,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Headphones",
+    "name": "Fone Edifier W800BT",
+    "price": 229.90
+  },
+  {
+    "id": 29,
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Headphones",
+    "name": "Fone Bluetooth Multilaser",
+    "price": 159.90,
+    "priceDiscount": 129.90
+  },
+  {
+    "id": 30,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Headphones",
+    "name": "Fone Samsung EO-IC500",
+    "price": 179.90
+  },
+  {
+    "id": 31,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Headphones",
+    "name": "Fone Lenovo LP40",
+    "price": 99.90,
+    "priceDiscount": 79.90
+  },
+  {
+    "id": 32,
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Headphones",
+    "name": "Fone Motorola Verve Buds 110",
+    "price": 89.90
+  },
+  {
+    "id": 33,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Tênis",
+    "name": "Tênis Nike Revolution 6",
+    "price": 299.90,
+    "priceDiscount": 249.90
+  },
+  {
+    "id": 34,
+    "image": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Tênis",
+    "name": "Tênis Adidas Runfalcon 2.0",
+    "price": 279.90
+  },
+  {
+    "id": 35,
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Tênis",
+    "name": "Tênis Olympikus Corre 3",
+    "price": 199.90,
+    "priceDiscount": 169.90
+  },
+  {
+    "id": 36,
+    "image": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Tênis",
+    "name": "Tênis Puma Carina 2.0",
+    "price": 229.90
+  },
+  {
+    "id": 37,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Tênis",
+    "name": "Tênis Asics Gel-Contend 7",
+    "price": 349.90,
+    "priceDiscount": 299.90
+  },
+  {
+    "id": 38,
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Tênis",
+    "name": "Tênis Mizuno Wave Ultima",
+    "price": 399.90
+  },
+  {
+    "id": 39,
+    "image": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Tênis",
+    "name": "Tênis Under Armour Charged",
+    "price": 279.90,
+    "priceDiscount": 229.90
+  },
+  {
+    "id": 40,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=321&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI5NDA4MjAw&ixlib=rb-1.2.1&q=80&w=292",
+    "category": "Tênis",
+    "name": "Tênis New Balance 411",
+    "price": 249.90
+  }
+]
