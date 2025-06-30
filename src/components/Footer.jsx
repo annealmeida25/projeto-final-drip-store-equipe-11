@@ -1,3 +1,4 @@
+import './assets/styles/theme.css';
 import logo from '../assets/logo-footer.svg'
 
 export function Footer() {  // Exportação nomeada explícita
